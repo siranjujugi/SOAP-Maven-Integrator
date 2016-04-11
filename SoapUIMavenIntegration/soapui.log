@@ -1,0 +1,122 @@
+2016-01-28 13:38:40,596 WARN  [SoapUI] Missing folder [C:\workspace\mvn-soapUI\SoapUIMavenIntegration\.\ext] for external libraries
+2016-01-28 13:38:40,597 INFO  [DefaultSoapUICore] Creating new settings at [C:\Users\IBM_ADMIN\soapui-settings.xml]
+2016-01-28 13:38:41,000 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [C:\workspace\mvn-soapUI\SoapUIMavenIntegration\scripts]
+2016-01-28 13:38:41,523 INFO  [WsdlProject] Loaded project from [file:/C:/workspace/mvn-soapUI/SoapUIMavenIntegration/SoapUITester-soapui-project.xml]
+2016-01-28 13:38:41,743 INFO  [CoverageBuilder] init
+2016-01-28 13:38:41,986 INFO  [SchemaUtils] Added default schema from file:/C:/Users/IBM_ADMIN/.m2/repository/com/smartbear/soapui/soapui/4.6.4/soapui-4.6.4.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2016-01-28 13:38:42,001 INFO  [SchemaUtils] Added default schema from file:/C:/Users/IBM_ADMIN/.m2/repository/com/smartbear/soapui/soapui/4.6.4/soapui-4.6.4.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2016-01-28 13:38:42,002 INFO  [SchemaUtils] Added default schema from file:/C:/Users/IBM_ADMIN/.m2/repository/com/smartbear/soapui/soapui/4.6.4/soapui-4.6.4.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2016-01-28 13:38:42,003 INFO  [SchemaUtils] Added default schema from file:/C:/Users/IBM_ADMIN/.m2/repository/com/smartbear/soapui/soapui/4.6.4/soapui-4.6.4.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2016-01-28 13:38:42,003 INFO  [SchemaUtils] Added default schema from file:/C:/Users/IBM_ADMIN/.m2/repository/com/smartbear/soapui/soapui/4.6.4/soapui-4.6.4.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2016-01-28 13:38:42,004 INFO  [SchemaUtils] Added default schema from file:/C:/Users/IBM_ADMIN/.m2/repository/com/smartbear/soapui/soapui/4.6.4/soapui-4.6.4.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2016-01-28 13:38:42,004 INFO  [SchemaUtils] Added default schema from file:/C:/Users/IBM_ADMIN/.m2/repository/com/smartbear/soapui/soapui/4.6.4/soapui-4.6.4.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2016-01-28 13:38:42,006 INFO  [SchemaUtils] Added default schema from file:/C:/Users/IBM_ADMIN/.m2/repository/com/smartbear/soapui/soapui/4.6.4/soapui-4.6.4.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2016-01-28 13:38:42,006 INFO  [SchemaUtils] Added default schema from file:/C:/Users/IBM_ADMIN/.m2/repository/com/smartbear/soapui/soapui/4.6.4/soapui-4.6.4.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2016-01-28 13:38:42,008 INFO  [SchemaUtils] Added default schema from file:/C:/Users/IBM_ADMIN/.m2/repository/com/smartbear/soapui/soapui/4.6.4/soapui-4.6.4.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2016-01-28 13:38:42,008 INFO  [SchemaUtils] Loading schema types from [file:/C:/Users/IBM_ADMIN/Desktop/wsdls/InventoryAggregationService.wsdl]
+2016-01-28 13:38:42,008 INFO  [SchemaUtils] Getting schema file:/C:/Users/IBM_ADMIN/Desktop/wsdls/InventoryAggregationService.wsdl
+2016-01-28 13:38:42,025 INFO  [SchemaUtils] Getting schema file:\C:\Users\IBM_ADMIN\Desktop\wsdls\CommonHeaderV3_3.xsd
+2016-01-28 13:38:42,026 INFO  [SchemaUtils] Getting schema file:\C:\Users\IBM_ADMIN\Desktop\wsdls\BaseTypeSchema.xsd
+2016-01-28 13:38:42,030 INFO  [SchemaUtils] Getting schema file:\C:\Users\IBM_ADMIN\Desktop\wsdls\ServiceObjectSchema.xsd
+2016-01-28 13:38:42,032 INFO  [SchemaUtils] Getting schema file:\C:\Users\IBM_ADMIN\Desktop\wsdls\OrganizationDetailsSchema.xsd
+2016-01-28 13:38:42,033 INFO  [SchemaUtils] Getting schema file:\C:\Users\IBM_ADMIN\Desktop\wsdls\ContactDetailsSchema.xsd
+2016-01-28 13:38:42,034 INFO  [SchemaUtils] Getting schema file:\C:\Users\IBM_ADMIN\Desktop\wsdls\AssociationDetailsSchema.xsd
+2016-01-28 13:38:42,035 INFO  [SchemaUtils] Getting schema file:\C:\Users\IBM_ADMIN\Desktop\wsdls\AliasManagementDetailsSchema.xsd
+2016-01-28 13:38:42,036 INFO  [SchemaUtils] Getting schema file:\C:\Users\IBM_ADMIN\Desktop\wsdls\SearchTypesSchema.xsd
+2016-01-28 13:38:42,038 INFO  [SchemaUtils] Getting schema file:\C:\Users\IBM_ADMIN\Desktop\wsdls\InventoryAggregationDetailsSchema.xsd
+2016-01-28 13:38:42,041 INFO  [SchemaUtils] Getting schema file:\C:\Users\IBM_ADMIN\Desktop\wsdls\AccessHoursSchema.xsd
+2016-01-28 13:38:42,311 INFO  [SoapUIProTestCaseRunner] Running SoapUI tests in project [InventoryAggregationServiceUp]
+2016-01-28 13:38:42,313 INFO  [SoapUIProTestCaseRunner] Running Project [InventoryAggregationServiceUp], runType = SEQUENTIAL
+2016-01-28 13:38:42,319 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [TestCase 1]
+2016-01-28 13:38:42,332 INFO  [SoapUIProTestCaseRunner] running step [getCustomerAssetDetail - Request 1]
+2016-01-28 13:39:21,026 ERROR [WsdlSubmit] Exception in request: java.net.UnknownHostException: zlt03023.vci.att.com
+2016-01-28 13:39:21,026 ERROR [SoapUI] An error occurred [zlt03023.vci.att.com], see error log for details
+2016-01-28 13:39:21,027 ERROR [errorlog] java.net.UnknownHostException: zlt03023.vci.att.com
+java.net.UnknownHostException: zlt03023.vci.att.com
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:928)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1323)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1276)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:278)
+	at com.eviware.soapui.impl.wsdl.support.http.SoapUIMultiThreadedHttpConnectionManager$SoapUIClientConnectionOperator.openConnection(SoapUIMultiThreadedHttpConnectionManager.java:274)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:151)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:125)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:643)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:479)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:906)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:805)
+	at com.eviware.soapui.impl.wsdl.support.http.HttpClientSupport$Helper.execute(HttpClientSupport.java:238)
+	at com.eviware.soapui.impl.wsdl.support.http.HttpClientSupport.execute(HttpClientSupport.java:348)
+	at com.eviware.soapui.impl.wsdl.submit.transports.http.HttpClientRequestTransport.submitRequest(HttpClientRequestTransport.java:318)
+	at com.eviware.soapui.impl.wsdl.submit.transports.http.HttpClientRequestTransport.sendRequest(HttpClientRequestTransport.java:232)
+	at com.eviware.soapui.impl.wsdl.WsdlSubmit.run(WsdlSubmit.java:123)
+	at com.eviware.soapui.impl.wsdl.WsdlSubmit.submitRequest(WsdlSubmit.java:76)
+	at com.eviware.soapui.impl.wsdl.WsdlRequest.submit(WsdlRequest.java:238)
+	at com.eviware.soapui.impl.wsdl.teststeps.WsdlTestRequestStep.run(WsdlTestRequestStep.java:417)
+	at com.eviware.soapui.impl.wsdl.support.AbstractTestCaseRunner.runTestStep(AbstractTestCaseRunner.java:235)
+	at com.eviware.soapui.impl.wsdl.testcase.WsdlTestCaseRunner.runCurrentTestStep(WsdlTestCaseRunner.java:48)
+	at com.eviware.soapui.impl.wsdl.support.AbstractTestCaseRunner.internalRun(AbstractTestCaseRunner.java:148)
+	at com.eviware.soapui.impl.wsdl.support.AbstractTestCaseRunner.internalRun(AbstractTestCaseRunner.java:43)
+	at com.eviware.soapui.impl.wsdl.support.AbstractTestRunner.run(AbstractTestRunner.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-01-28 13:39:21,030 INFO  [SoapUIProTestCaseRunner] Assertion [SOAP Response] has status UNKNOWN
+2016-01-28 13:39:21,031 INFO  [SoapUIProTestCaseRunner] Assertion [Match content of [ObjectId]] has status UNKNOWN
+2016-01-28 13:39:21,031 INFO  [SoapUIProTestCaseRunner] Assertion [Match content of [isReadOnly]] has status UNKNOWN
+2016-01-28 13:39:21,031 ERROR [SoapUIProTestCaseRunner] getCustomerAssetDetail - Request 1 failed, exporting to [C:\workspace\mvn-soapUI\SoapUIMavenIntegration\target\soapui-reports\TestSuite_1-TestCase_1-getCustomerAssetDetail__Request_1-0-FAILED.txt]
+2016-01-28 13:39:21,037 INFO  [CoverageBuilder] afterStep
+2016-01-28 13:39:21,598 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 38692ms, status: FAILED
+2016-01-28 13:39:21,603 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [TestCase 2]
+2016-01-28 13:39:21,604 INFO  [SoapUIProTestCaseRunner] running step [SOAP Request]
+2016-01-28 13:39:33,613 ERROR [WsdlSubmit] Exception in request: java.net.UnknownHostException: hldi096.hydc.sbc.com
+2016-01-28 13:39:33,614 ERROR [SoapUI] An error occurred [hldi096.hydc.sbc.com], see error log for details
+2016-01-28 13:39:33,614 ERROR [errorlog] java.net.UnknownHostException: hldi096.hydc.sbc.com
+java.net.UnknownHostException: hldi096.hydc.sbc.com
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1280)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1192)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1126)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:278)
+	at com.eviware.soapui.impl.wsdl.support.http.SoapUIMultiThreadedHttpConnectionManager$SoapUIClientConnectionOperator.openConnection(SoapUIMultiThreadedHttpConnectionManager.java:274)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:151)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:125)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:643)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:479)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:906)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:805)
+	at com.eviware.soapui.impl.wsdl.support.http.HttpClientSupport$Helper.execute(HttpClientSupport.java:238)
+	at com.eviware.soapui.impl.wsdl.support.http.HttpClientSupport.execute(HttpClientSupport.java:348)
+	at com.eviware.soapui.impl.wsdl.submit.transports.http.HttpClientRequestTransport.submitRequest(HttpClientRequestTransport.java:318)
+	at com.eviware.soapui.impl.wsdl.submit.transports.http.HttpClientRequestTransport.sendRequest(HttpClientRequestTransport.java:232)
+	at com.eviware.soapui.impl.wsdl.WsdlSubmit.run(WsdlSubmit.java:123)
+	at com.eviware.soapui.impl.wsdl.WsdlSubmit.submitRequest(WsdlSubmit.java:76)
+	at com.eviware.soapui.impl.wsdl.WsdlRequest.submit(WsdlRequest.java:238)
+	at com.eviware.soapui.impl.wsdl.teststeps.WsdlTestRequestStep.run(WsdlTestRequestStep.java:417)
+	at com.eviware.soapui.impl.wsdl.support.AbstractTestCaseRunner.runTestStep(AbstractTestCaseRunner.java:235)
+	at com.eviware.soapui.impl.wsdl.testcase.WsdlTestCaseRunner.runCurrentTestStep(WsdlTestCaseRunner.java:48)
+	at com.eviware.soapui.impl.wsdl.support.AbstractTestCaseRunner.internalRun(AbstractTestCaseRunner.java:148)
+	at com.eviware.soapui.impl.wsdl.support.AbstractTestCaseRunner.internalRun(AbstractTestCaseRunner.java:43)
+	at com.eviware.soapui.impl.wsdl.support.AbstractTestRunner.run(AbstractTestRunner.java:135)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2016-01-28 13:39:33,616 INFO  [SoapUIProTestCaseRunner] Assertion [SOAP Response] has status UNKNOWN
+2016-01-28 13:39:33,617 INFO  [SoapUIProTestCaseRunner] Assertion [Schema Compliance] has status UNKNOWN
+2016-01-28 13:39:33,617 INFO  [SoapUIProTestCaseRunner] Assertion [Not SOAP Fault] has status UNKNOWN
+2016-01-28 13:39:33,617 ERROR [SoapUIProTestCaseRunner] SOAP Request failed, exporting to [C:\workspace\mvn-soapUI\SoapUIMavenIntegration\target\soapui-reports\TestSuite_1-TestCase_2-SOAP_Request-0-FAILED.txt]
+2016-01-28 13:39:33,623 INFO  [CoverageBuilder] afterStep
+2016-01-28 13:39:33,628 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [TestCase 2], time taken: 12011ms, status: FAILED
+2016-01-28 13:39:33,629 INFO  [SoapUIProTestCaseRunner] Project [InventoryAggregationServiceUp] finished with status [FAILED] in 51314ms
+2016-01-28 13:39:33,986 INFO  [SoapUIProTestCaseRunner] Created report at file:/C:/workspace/mvn-soapUI/SoapUIMavenIntegration/target/soapui-reports/index.html
+2016-01-28 13:39:33,986 INFO  [CoverageBuilder] exportReport(reportDir=C:\workspace\mvn-soapUI\SoapUIMavenIntegration\target\soapui-reports, openReport=false)
+2016-01-28 13:39:33,987 INFO  [CoverageReportBuilder] Generating coverage reports in C:\workspace\mvn-soapUI\SoapUIMavenIntegration\target\soapui-reports
+2016-01-28 13:39:34,745 WARN  [errorlog] Failed to delete temporary project file; C:\Users\IBM_AD~1\AppData\Local\Temp\project-temp-7733640509774888781.xml
+2016-01-28 13:39:34,746 INFO  [WsdlProject] Saved project [InventoryAggregationServiceUp] to [C:\workspace\mvn-soapUI\SoapUIMavenIntegration\SoapUITester-soapui-project.xml - 416277 bytes

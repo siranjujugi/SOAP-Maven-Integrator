@@ -1,0 +1,72 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.ibm.att.gcp</groupId>
+	<artifactId>SoapUIMavenIntegration</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>SoapUIMavenIntegration</name>
+	<url>http://maven.apache.org</url>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+	<!-- Maven Environment -->
+	<repositories>
+		<repository>
+			<id>eviware</id>
+			<url>http://www.eviware.com/repository/maven2/</url>
+		</repository>
+	</repositories>
+	<pluginRepositories>
+		<pluginRepository>
+			<id>smartbear-sweden-plugin-repository</id>
+			<url>http://www.soapui.org/repository/maven2/</url>
+		</pluginRepository>
+	</pluginRepositories>
+	<build>
+		<plugins>
+
+			<plugin>
+				<groupId>com.smartbear.soapui</groupId>
+				<artifactId>soapui-pro-maven-plugin</artifactId>
+				<version>5.0.0</version>
+
+				<configuration>
+					<!--The location of your soapUI setting file -->
+					<projectFile>${projectFile}</projectFile>
+					<!--Where to place the output of the run -->
+					<outputFolder>target/soapui-reports</outputFolder>
+					<printReport>true</printReport>
+					<!-- <testSuite>InventoryAggregationServiceUp</testSuite> -->
+
+					<!--Make the jUnit results file -->
+					<junitReport>true</junitReport>
+					<exportAll>true</exportAll>
+					<saveAfterRun>true</saveAfterRun>
+					<coverage>true</coverage>
+				</configuration>
+				<executions>
+					<execution>
+						<phase>test</phase>
+						<goals>
+							<goal>test</goal>
+						</goals>
+						<!-- <configuration> <projectFile>C:\Users\IBM_ADMIN\Documents\InventoryAggregationServiceUp-soapui-project.xml</projectFile> 
+							<projectProperties> <value>message=Hello World!</value> </projectProperties> 
+							</configuration> -->
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+</project>

@@ -1,0 +1,357 @@
+2015-11-30 15:53:34,690 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml
+2015-11-30 15:53:35,331 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 15:53:35,707 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SoapUIMavenIntegration/src/main/java
+2015-11-30 15:53:35,711 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SoapUIMavenIntegration/src/test/java
+2015-11-30 15:53:36,628 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 1 sec
+2015-11-30 15:53:37,077 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 15:53:37,177 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 15:53:37,177 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 15:53:37,179 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 15:53:37,179 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 15:53:37,379 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 15:53:38,389 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 15:53:38,389 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 15:53:38,391 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 15:53:38,391 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 15:54:53,479 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 15:54:53,604 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 15:54:53,604 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 15:54:53,605 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 15:54:53,605 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 15:58:19,003 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 15:58:19,057 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 15:58:19,057 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 15:58:19,058 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 15:58:19,058 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 15:58:31,512 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 15:58:31,513 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-11-30 15:58:35,035 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 15:58:35,036 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 15:58:35,037 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 15:58:35,038 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 16:05:58,891 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 16:05:58,895 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-11-30 16:12:55,821 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 16:12:55,822 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 16:12:58,504 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 16:12:58,504 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 16:12:58,505 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 16:12:58,506 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:38:20,979 [Worker-1] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:550) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:504) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:459) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:334) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:287) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.refresh(MavenProjectManager.java:67) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.getProjectFacade(MavenBuilder.java:216) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:91) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:1) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:733) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'url' (position: START_TAG seen ...<url>http://maven.apache.org</url>\n\n\t<url>... @13:7) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:548) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	... 26 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'url' (position: START_TAG seen ...<url>http://maven.apache.org</url>\n\n\t<url>... @13:7) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:117) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2281) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4088) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4021) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	... 28 common frames omitted
+2015-11-30 19:38:22,453 [Worker-1] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:550) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:504) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:459) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:334) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:287) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.refresh(MavenProjectManager.java:67) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.getProjectFacade(MavenBuilder.java:216) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:91) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:1) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:89) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:733) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.8.101.v20130717-0806.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'url' (position: START_TAG seen ...<url>http://maven.apache.org</url>\n\n\t<url>... @13:7) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:548) [org.eclipse.m2e.core_1.4.0.20130601-0317.jar:na]
+	... 26 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'url' (position: START_TAG seen ...<url>http://maven.apache.org</url>\n\n\t<url>... @13:7) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:117) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2281) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4088) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:4021) ~[maven-model-3.0.4.jar:3.0.4]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.0.4.jar:3.0.4]
+	... 28 common frames omitted
+2015-11-30 19:38:30,026 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:38:30,653 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:38:30,653 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:38:30,654 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:38:30,654 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:38:31,825 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:38:31,825 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:38:31,826 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:38:31,826 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:40:41,578 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:40:41,630 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:40:41,631 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:40:41,631 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:40:41,632 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:41:10,478 [Worker-8] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:41:11,737 [New I/O client worker #1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://www.soapui.org/repository/maven2/com/smartbear/soapui/soapui-pro-maven-plugin/4.6.4/soapui-pro-maven-plugin-4.6.4.jar
+2015-11-30 19:41:12,242 [New I/O client worker #1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://www.soapui.org/repository/maven2/com/smartbear/soapui/soapui-pro-maven-plugin/4.6.4/soapui-pro-maven-plugin-4.6.4.jar
+2015-11-30 19:41:17,712 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:41:17,753 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:41:17,753 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:41:17,754 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:41:17,754 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:42:04,609 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:42:04,610 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:42:04,611 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:42:04,611 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:42:34,971 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:42:35,053 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:42:35,053 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:42:35,054 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:42:35,054 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:43:53,282 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 19:43:53,282 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 19:52:15,767 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:52:15,770 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:52:19,958 [New I/O client worker #2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://www.eviware.com/repository/maven2/log4j/log4j/1.2.15/log4j-1.2.15.pom
+2015-11-30 19:52:19,963 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:52:20,770 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.pom
+2015-11-30 19:52:21,049 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.pom
+2015-11-30 19:52:21,074 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:52:22,697 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:52:24,241 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:52:25,626 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:52:27,001 [New I/O client worker #7-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://www.eviware.com/repository/maven2/com/sun/jdmk/jmxtools/1.2.1/jmxtools-1.2.1.pom
+2015-11-30 19:52:27,010 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:52:27,316 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jdmk/jmxtools/1.2.1/jmxtools-1.2.1.pom
+2015-11-30 19:52:27,317 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jdmk/jmxtools/1.2.1/jmxtools-1.2.1.pom
+2015-11-30 19:52:27,336 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:52:28,828 [New I/O client worker #9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://www.eviware.com/repository/maven2/com/sun/jmx/jmxri/1.2.1/jmxri-1.2.1.pom
+2015-11-30 19:52:28,836 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:52:29,133 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/jmx/jmxri/1.2.1/jmxri-1.2.1.pom
+2015-11-30 19:52:29,135 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jmx/jmxri/1.2.1/jmxri-1.2.1.pom
+2015-11-30 19:52:29,181 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:52:30,674 [New I/O client worker #11-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://www.eviware.com/repository/maven2/log4j/log4j/1.2.15/log4j-1.2.15.jar
+2015-11-30 19:52:35,546 [New I/O client worker #11-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://www.eviware.com/repository/maven2/com/sun/jdmk/jmxtools/1.2.1/jmxtools-1.2.1.jar
+2015-11-30 19:52:35,645 [New I/O client worker #11-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://www.eviware.com/repository/maven2/com/sun/jmx/jmxri/1.2.1/jmxri-1.2.1.jar
+2015-11-30 19:52:35,801 [Worker-11] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:52:36,088 [New I/O client worker #12-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jdmk/jmxtools/1.2.1/jmxtools-1.2.1.jar
+2015-11-30 19:52:36,350 [New I/O client worker #12-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/jmx/jmxri/1.2.1/jmxri-1.2.1.jar
+2015-11-30 19:52:36,374 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.jar
+2015-11-30 19:52:38,897 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.jar
+2015-11-30 19:52:39,101 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:52:39,101 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:52:39,102 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:52:39,102 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:52:40,342 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:52:40,407 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:52:40,408 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:52:40,409 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:52:40,409 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:52:46,837 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 19:52:46,837 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 19:53:07,494 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:53:07,540 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:53:07,540 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:53:07,541 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:53:07,541 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:53:08,798 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:53:08,798 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:53:08,799 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:53:08,799 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:53:17,595 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:53:17,664 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:53:17,664 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:53:17,665 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:53:17,665 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:53:52,744 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:53:52,750 [Worker-8] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:53:55,495 [New I/O client worker #13-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://www.eviware.com/repository/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2015-11-30 19:53:55,502 [Worker-8] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-30 19:53:56,211 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2015-11-30 19:53:59,029 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17.jar
+2015-11-30 19:53:59,134 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:53:59,135 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:53:59,136 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:53:59,136 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:53:59,852 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 19:53:59,852 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 19:54:00,334 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:54:00,334 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:54:00,335 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:54:00,335 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:54:48,687 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:54:48,735 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:54:48,735 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:54:48,736 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:54:48,737 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:54:49,981 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:54:49,982 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:54:49,983 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:54:49,983 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:55:08,340 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 19:55:08,340 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 19:56:30,888 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:56:30,928 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:56:30,928 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:56:30,929 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:56:30,929 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:56:37,427 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 19:56:37,428 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 19:58:17,263 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 19:58:17,302 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:58:17,302 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 19:58:17,303 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 19:58:17,303 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 19:58:23,953 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 19:58:23,954 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 20:04:26,325 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 20:04:26,434 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:04:26,434 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 20:04:26,435 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:04:26,435 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 20:04:32,190 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 20:04:32,191 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 20:05:26,612 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 20:05:26,655 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:05:26,655 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 20:05:26,656 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:05:26,656 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 20:06:34,558 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 20:06:34,599 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:06:34,600 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 20:06:34,600 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:06:34,601 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 20:06:41,094 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 20:06:41,094 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 20:07:20,234 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:07:20,234 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 20:07:20,235 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:07:20,235 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 20:15:42,163 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 20:15:42,210 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:15:42,211 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 20:15:42,212 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:15:42,212 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 20:15:48,396 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 20:15:48,396 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 20:15:54,367 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:15:54,367 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 20:15:54,368 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:15:54,368 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 20:16:51,230 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-11-30 20:16:51,269 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:16:51,269 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 20:16:51,270 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:16:51,270 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 20:16:56,794 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 20:16:56,795 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 20:28:18,069 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 20:28:18,070 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 20:31:26,086 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:31:26,086 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 20:31:26,087 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:31:26,087 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 20:31:30,831 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-11-30 20:31:48,930 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 20:31:48,930 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install package test
+2015-11-30 20:32:06,672 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 20:32:06,673 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-11-30 20:32:08,114 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:32:08,114 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-11-30 20:32:08,116 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-30 20:32:08,116 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-11-30 20:33:18,958 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-11-30 20:33:18,959 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2015-12-04 18:02:15,029 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.att.gcp:SoapUIMavenIntegration:0.0.1-SNAPSHOT @ C:\workspace\mvn-soapUI\SoapUIMavenIntegration\pom.xml.
+2015-12-04 18:02:18,483 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 18:02:18,483 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-12-04 18:02:18,486 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 18:02:18,486 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2015-12-04 18:02:46,241 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2015-12-04 18:02:46,241 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-12-04 18:03:18,673 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 18:03:18,673 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2015-12-04 18:03:18,674 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-04 18:03:18,674 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2016-01-27 16:44:09,175 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2016-01-27 16:44:09,178 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-01-27 18:28:16,131 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-01-27 18:28:27,946 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2016-01-27 18:28:27,947 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package test
+2016-01-27 18:30:01,614 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-27 18:30:01,614 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2016-01-27 18:30:01,615 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-27 18:30:01,615 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2016-01-27 18:40:16,013 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2016-01-27 18:40:16,014 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2016-01-28 13:06:21,362 [Worker-146] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2016-01-28 13:06:21,362 [Worker-146] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-01-28 13:06:28,416 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-28 13:06:28,416 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2016-01-28 13:06:28,418 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-28 13:06:28,418 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2016-01-28 13:06:37,985 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-01-28 13:09:03,773 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-28 13:09:03,773 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2016-01-28 13:09:03,774 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-28 13:09:03,774 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2016-01-28 13:09:05,660 [Worker-149] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2016-01-28 13:09:05,660 [Worker-149] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2016-01-28 13:09:20,160 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-01-28 13:09:27,648 [Worker-144] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2016-01-28 13:09:27,648 [Worker-144] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean package
+2016-01-28 13:10:03,566 [Worker-151] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2016-01-28 13:10:03,566 [Worker-151] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-01-28 13:10:05,478 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-28 13:10:05,478 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2016-01-28 13:10:05,479 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-28 13:10:05,479 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
+2016-01-28 13:38:37,116 [Worker-145] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace\mvn-soapUI\SoapUIMavenIntegration
+2016-01-28 13:38:37,116 [Worker-145] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2016-01-28 13:38:46,978 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-01-28 13:39:35,747 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-28 13:39:35,747 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\main\resources
+2016-01-28 13:39:35,749 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-28 13:39:35,749 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace\mvn-soapUI\SoapUIMavenIntegration\src\test\resources
